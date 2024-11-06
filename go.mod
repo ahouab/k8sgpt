@@ -1,6 +1,6 @@
 module github.com/k8sgpt-ai/k8sgpt
 
-go 1.22.5
+go 1.22.8
 
 toolchain go1.23.2
 
@@ -10,7 +10,7 @@ require (
 	github.com/kedacore/keda/v2 v2.15.1
 	github.com/magiconair/properties v1.8.7
 	github.com/mittwald/go-helm-client v0.12.14
-	github.com/ollama/ollama v0.3.14
+	github.com/ollama/ollama v0.4.0
 	github.com/sashabaranov/go-openai v1.32.5
 	github.com/schollz/progressbar/v3 v3.17.0
 	github.com/spf13/cobra v1.8.1
